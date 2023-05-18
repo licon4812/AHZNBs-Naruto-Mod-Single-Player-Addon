@@ -6,5 +6,5 @@ This is an addon for AHZNBs naruto mod that adds single player functionality to 
 https://www.curseforge.com/minecraft/mc-mods/ahznbs-naruto-mod
 
 ## Planned Features:
-- Add Uchia Police officers as a mob, type. Will have the change to drop the Sharingan on death
-- Adds a Hyuga clan member as a mob, type. Will have the change to drop the Byakugan on death
+- Add Uchia Police officers as a mob type. Will have the chance to drop the Sharingan on death
+- Adds a Hyuga clan member as a mob type. Will have the chance to drop the Byakugan on death
