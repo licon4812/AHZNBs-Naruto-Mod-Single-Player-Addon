@@ -1,16 +1,18 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "naruto_sp_addon",
+  "name": "Naruto SP Addon",
+  "description": "Allows you to use certain features from AHNZB's Naruto mod that were only possible in multiplayer.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Licon4812"],
+  "credits": "AHNZB for the original Naruto mod. Licon4812 for the addon",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [
+    "naruto@[${naruto_version})"
+  ]
 }
 ]

@@ -2,6 +2,7 @@
   <configuration default="false" name="runServer" type="Application" factoryName="Application" singleton="false">
     <classpathModifications>
       <entry path="D:\Programming\Minecraft Java\AHZNBs-Naruto-Mod-Single-Player-Addon\src\main" />
+      <entry path="D:\Programming\Minecraft Java\AHZNBs-Naruto-Mod-Single-Player-Addon\src\main\resources" />
     </classpathModifications>
     <envs>
       <env name="MCP_TO_SRG" value="$PROJECT_DIR$/../AHZNBs-Naruto-Mod-Single-Player-Addon\build\createSrgToMcp\output.srg" />
