@@ -1,4 +1,4 @@
-package com.licon4812.naruto_sp_addon;
+package com.naruto_sp_addon;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
